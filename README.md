@@ -1,4 +1,5 @@
 # hr_ui
+![Sc21 at 13 23 35](https://user-images.githubusercontent.com/78628177/122707246-957e3080-d294-11eb-888a-87ab939b7136.png)
 
 A new Flutter project.
 
